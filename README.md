@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/kaus1000/kaus1000/output/github-contribution-grid-snake.svg"><!--
+
 <h1 align="center">Hi 👋, I'm Sérgio Damaceno Botelho</h1>
 <h3 align="center">back-end developer from Brazil</h3>
 
@@ -51,6 +52,7 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
+
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
@@ -58,9 +60,13 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code" width="400" height="400">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaus1000&show_icons=true&locale=en" alt="kaus1000" /></p>
 
 
 [twitter]: https://twitter.com/sergiodb021
 [instagram]: https://www.instagram.com/sergiodb121/
 [linkedin]: http://linkedin.com/in/s%C3%A9rgio-damaceno-botelho-ab9a24184
+
+
+
