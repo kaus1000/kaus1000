@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"><!--
+<img src="https://raw.githubusercontent.com/kaus1000/kaus1000/output/github-contribution-grid-snake.svg"><!--
 **kaus1000/kaus1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
