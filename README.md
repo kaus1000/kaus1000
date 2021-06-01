@@ -1,21 +1,5 @@
 
 <img src="https://raw.githubusercontent.com/kaus1000/kaus1000/output/github-contribution-grid-snake.svg"><!--
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-4675
-Fork on GitHub
-886
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sérgio Damaceno Botelho</h1>
 <h3 align="center">back-end developer from Brazil</h3>
 
