@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/kaus1000/kaus1000/output/github-contribution-grid-snake.svg"><!--
+<img src="https://raw.githubusercontent.com/kaus1000/kaus1000/output/github-contribution-grid-snake.svg">
 
 <h1 align="center">Hi 👋, I'm Sérgio Damaceno Botelho</h1>
 <h3 align="center">back-end developer from Brazil</h3>
