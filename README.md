@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sérgio Damaceno Botelho</h1>
 <h3 align="center">back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Metatrader4**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Fullstack and Machine Learning**
 
